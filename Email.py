@@ -2,6 +2,7 @@
 # make sure SMTP server is installed in local machine
 # Host is SMTP server
 # Port is 25
+# this is a change
 
 import smtplib
 from email.message import EmailMessage
